@@ -1,0 +1,2 @@
+"This project is a simple Python number-guessing game designed as a beginner programming exercise. The script generates a secret number and gives the user three attempts to guess it correctly. The goal of the project is to practice fundamental programming concepts such as loops, conditional statements, logical flow, and handling user input.
+It serves as a small training project to strengthen basic Python skills and improve problem-solving through simple game logic."
